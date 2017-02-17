@@ -1,0 +1,106 @@
+/*
+hr{ 
+	width:100%; 
+	height:2px; 
+	background-color: grey;
+}
+*/
+*{
+	font-family: 'PT Sans', sans-serif;
+}
+
+#topline{
+	width: 100%;
+	height:2px;
+	background-color: grey;
+}
+
+#bottomline{
+	width:100%;
+	height:5px;
+	background-color: grey;
+}
+
+.maintitlefont{
+font-weight: bold;
+font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.maintitleposition{
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 250px;
+}
+
+.heading{
+width: 10%;
+border: 6px solid #73AD21;
+border-radius: 50%;
+}
+
+.sidebar {
+    width: 200px;
+    display: inline-block;
+    float: left;
+    background: #eee;
+    height:400px;
+    position:absolute;
+}
+
+ .centraldiv {
+ 	height: 400px;
+ 	padding-left: 205px;
+ 	position: absolute;
+ }
+
+.footerdiv {
+	margin-top: 450px;
+	float: bottom;
+	position: absolute;
+}
+
+h2{
+	color:blue;
+	font-size:20px;
+}
+
+.subtitle1{
+	color: grey;
+}
+
+.subsubtitle{
+	color: green;
+}
+
+p{
+	color: grey;
+	padding-left: : 200px;
+}
+
+.size{
+	size: 30px;
+}
+ 
+#testid{
+color: red;
+}
+
+.footerlist{
+	list-style-type:decimal; 
+	width: 600px;
+}
+
+.itemfloat{
+	display: inline-block;
+	color: red;
+	right; 
+	width: 200px; 
+	padding: 2px 0px;
+	}
+
+
+/* comment
+// the double dash is not func
+this is all commented
+*/
+
